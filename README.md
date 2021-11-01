@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kristianmarku
-- 👀 I’m interested in Website Developing. (Laravel, PHP, Bootstrap, CSS, HTML, jQuery, MySQL)
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in Website Developing. (Laravel PHP, Bootstrap, CSS, HTML, WordPress, JavaScript, ReactJS)
+- 🌱 I’m currently learning JavaScript & ReactJS
 - 💞️ I’m looking to collaborate on open source projects mostly on Web Developement.
 - 📫 You can reach me by email, instagram, or whatsapp. 
   kristianmarku2003@gmail.com, @kiciedits, +383 49 240 962 .
