@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kristianmarku
-- 👀 I’m interested in Website Developing. (Laravel PHP & Livewire, Bootstrap, CSS, HTML, JavaScript, Java, MySQL Database)
-- 💞️ I’m looking to collaborate on open source projects mostly on Web Developement.
+- 👀 Interested in Software Engineering
+- 💞️ I’m looking to collaborate on open source projects mostly on Website Development.
 - 📫 You can reach me by instagram, or whatsapp. 
   @kiciedits, +383 49 240 962
 
