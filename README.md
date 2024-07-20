@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kristianmarku
-- 👀 Interested in Software Engineering
-- 💞️ I’m looking to collaborate on open source projects mostly on Website Development.
-- 📫 You can reach me by instagram: @kristiaanmarku
+  Software Developer specializing in Laravel and React, with expertise in web app development, problem-solving, and project management.
+  Skilled in UI/UX design, branding and marketing. Adept at collaborating with teams to bring ideas to life and ensure customer satisfaction.
+  Always eager to expand engineering skills and stay ahead in the ever-evolving tech landscape.
 
 <!---
 Kristianmarku/Kristianmarku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
